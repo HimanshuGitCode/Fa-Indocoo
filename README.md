@@ -39,6 +39,10 @@ npm install
 
 Contributions are welcome! If you find bugs, have feature requests, or want to contribute to the codebase, feel free to open an issue or submit a pull request.
 
+## Contact
+
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/himanshu-singh01/).
+
 ## Contributors
 
 <table>
@@ -66,11 +70,6 @@ Himanshu Singh
 
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by <b>Himanshu Singh</b>
-
-
-## Contact
-
-If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/himanshu-singh01/).
 
 ## License
 
